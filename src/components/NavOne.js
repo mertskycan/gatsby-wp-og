@@ -131,7 +131,7 @@ class NavOne extends Component {
               <StaticQuery
   query={graphql`
     {
-      wpMenu(locations: {eq: MOBILE}) {
+      wpMenu(locations: {eq: PRIMARY}) {
         menuItems {
           nodes {
             key: id
