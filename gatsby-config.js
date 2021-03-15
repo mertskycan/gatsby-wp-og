@@ -17,7 +17,7 @@ module.exports = {
          * The full URL of the WordPress site's GraphQL API.
          * Example : 'https://www.example-site.com/graphql'
          */
-        url: `https://ogdijital.com/Vefakitapevi/graphql`,
+        url: `https://ogdijital.com/ugurnakliye/graphql`,
       },
     },
     // highlight-end
