@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ugurnak/public_html/
+    - /bin/cp -R public/* $DEPLOYPATH
